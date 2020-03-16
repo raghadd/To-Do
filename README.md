@@ -1,7 +1,7 @@
 # To-Do
 Short to-do list project to practice
 
-- Add to do
+- Add task
 - Scratch off
 - Remove
 
