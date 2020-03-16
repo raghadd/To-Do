@@ -2,7 +2,7 @@
 Short to-do list project to practice
 
 - Add to do
-- Scratch
+- Scratch off
 - Remove
 
 ![ScreenShot](assets/images/im1.png)
