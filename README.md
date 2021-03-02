@@ -1,5 +1,5 @@
 # To-Do
-Short to-do list project to practice
+Short to-do list project to practice CSS and Javascript
 
 - Add task
 - Scratch off
